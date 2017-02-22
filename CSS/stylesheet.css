@@ -33,6 +33,12 @@ body {
 	height: 1px;
 }
 
+#divLine2 {
+	width: 800px;
+	background: #708090;
+	height: 1px;
+}
+
 #divLinks {
 		width: 800px;
 		background: #c0c0c0;
