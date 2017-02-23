@@ -117,7 +117,7 @@ body {
 #content {
 		width: 650px;
 		margin: 10px auto;
-		background: #FFFFF0;
+		background: #FFFACD;
 		border: 1px solid #708090;
 		
 		/*Border Radius*/
@@ -161,7 +161,7 @@ body {
 }
 
 #footer {
-		background: #FFE4C4;
+		background: #FFEBCD;
 		height: 20px;
 		width: 800px;
 		border-bottom: 1px solid #708090;
