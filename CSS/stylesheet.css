@@ -46,7 +46,7 @@ body {
 }
 
 #Nav ul {
-	list-style-type: none;	
+		list-style-type: none;	
 }
 
 #Nav ul li {
@@ -89,7 +89,7 @@ body {
 
 #About {
 		width: 800px;
-		background: #D3D3D3;
+		background: #DCDCDC;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
