@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 body, h1, h2, h3, h4, h5, h6, p, div, ul, li {
-	margin: 0;
-	padding: 0;
+		margin: 0;
+		padding: 0;
 }
 
 body {
@@ -11,12 +11,12 @@ body {
 }
 
 #wrapper {
-	width: 800px;
-	margin: 10px auto;
+		width: 800px;
+		margin: 10px auto;
 }
 
 #header {
-		width: 800px;
+		width: 75%;
 		background: #F5F5DC;
 		text-align: center;
 }
