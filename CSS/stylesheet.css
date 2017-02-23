@@ -101,6 +101,20 @@ body {
 		padding-bottom: 60px;
 }
 
+#Portfolio {
+		width: 800px;
+		background: #F5F5DC;
+		padding-top: 60px;
+		padding-bottom: 60px;
+}
+
+#Contact {
+		width: 800px;
+		background: #F5F5DC;
+		padding-top: 60px;
+		padding-bottom: 60px;
+}
+
 #Content {
 		width: 600px;
 		margin: 10px auto;
