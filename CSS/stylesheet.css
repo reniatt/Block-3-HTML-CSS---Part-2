@@ -88,28 +88,28 @@ body {
 
 #about {
 		width: 800px;
-		background: #FFFAF0;
+		background: #FFFFF0;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
 
 #resume {
 		width: 800px;
-		background: #FFFAF0;
+		background: #FFFFF0;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
 
 #portfolio {
 		width: 800px;
-		background: #FFFAF0;
+		background: #FFFFF0;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
 
 #contact {
 		width: 800px;
-		background: #FFFAF0;
+		background: #FFFFF0;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
@@ -117,7 +117,7 @@ body {
 #content {
 		width: 650px;
 		margin: 10px auto;
-		background: #FFFFF0;
+		background: #FFFAF0;
 		border: 1px solid #708090;
 		
 		/*Border Radius*/
