@@ -89,7 +89,7 @@ body {
 
 #About {
 		width: 800px;
-		background:#e6e6fa;
+		background:#FFF8DC;
 		padding-top: 60px;
 		padding-bottom: 60px;
 }
@@ -97,7 +97,7 @@ body {
 #Content {
 		width: 550px;
 		margin: 10px auto;
-		background: #DCDCDC;
+		background: #FFFFF0;
 		border: 1px solid #708090;
 		
 		/*Border Radius*/
@@ -114,7 +114,7 @@ body {
 #Content img {
 		float: left;
 		border: 1px solid #708090;
-		background: #e6e6fa;
+		background: #FFFFF0;
 		padding: 9px;
 		margin: 0.8em;
 		
