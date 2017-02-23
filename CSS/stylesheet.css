@@ -11,21 +11,19 @@ body {
 }
 
 #wrapper {
-		width: 100%;
+		width: 1000px;
 		margin: 10px auto;
 }
 
 #header {
-		width: 100%;
+		width: 1000px;
 		background: #F5F5DC;
 		text-align: center;
 }
 
 #header img {
 		padding-top: 0px;
-		padding-bottom: 0px;
-		background: none;
-				
+		padding-bottom: 0px;				
 }
 
 .border {
